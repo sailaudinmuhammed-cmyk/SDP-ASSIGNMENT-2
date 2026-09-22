@@ -1,7 +1,3 @@
-so the final read/me as a plain text?
-
-Logistics Factory Demo
-
 Purpose
 Console Java app combining Factory Method (transport creation) and Abstract Factory (platform-specific UI components) for a logistics delivery scenario.
 
